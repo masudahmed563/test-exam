@@ -1,0 +1,48 @@
+*{margin:0;
+padding:0;}
+.menu{width:300px;
+height:310px;
+background-color:#afd275;
+margin-left:40px;
+margin-top:50px;
+box-shadow:3px 3px 5px 0 yellow,
+            -3px -3px 5px 0 green;
+border-radius:20px;}
+
+.btn{padding:10px;
+justify-content:center;}
+.input{text-align:center;}
+.form-control{padding:10px 40px;
+margin-top:5px;
+background-color:#ddd;
+box-shadow:2px 2px 5px 0 red,
+           -2px -2px 8px 0 dodgerblue;
+           border-radius:10px;
+           border-style:none;
+           justify-content:center;
+           border-box:none;}
+.password{text-align:center;}
+           .form-control{padding:10px 40px;
+           margin-top:40px;
+           background-color:#ddd;
+           box-shadow:2px 2px 5px 0 red,
+           -2px -2px 8px 0 dodgerblue;
+           border-radius:10px;
+           border-style:none;
+           justify-content:center;
+        border-box:none; }
+.btn{padding:15px 40px;
+margin-top:60px;
+box-shadow:2px 2px 5px 0 red,
+-2px -2px 5px 0 dodgerblue;
+border-radius:15px;
+background-color:#ddd;
+transition:.5s;
+border-box:none;}
+.log{text-align:center;}
+.log a{text-decoration:none;
+font-size:20px;
+color:#fff;}
+.btn:hover{background-color:skyblue;}
+
+ 
